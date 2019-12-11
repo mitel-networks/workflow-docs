@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Configuration
+title: Flows
 nav_order: 2
 ---
 
