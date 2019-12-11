@@ -17,4 +17,7 @@ search_tokenizer_separator: /[\s/]+/
 # Enable or disable heading anchors
 heading_anchors: true
 
+# Color scheme currently only supports "dark" or nil (default)
+color_scheme: "mitel"
+
 remote_theme: pmarsceill/just-the-docs
