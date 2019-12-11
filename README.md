@@ -1,22 +1,20 @@
-## Mitel Workflow / Pro-tools BETA
+# Building and running locally
+Open Git Bash. Check whether you have Ruby 2.1.0 or higher installed:
 
-## What is it
+$ ruby --version
+> ruby 2.X.X
+If you don't have Ruby installed, install Ruby 2.1.0 or higher.
 
-Lorem markdownum telas, raptae Astraea referunt pressa, de. Direpta *vulgata
-loca*, latus, teneris tamen me proles. Nulloque violata ancora referre. Incursu
-hinc est humanum purior inbutam per, tenebat deam; aut poenam, et inposita
-concilio, deam: caecisque.
+Install Bundler:
 
-## Connected products
+$ gem install bundler
+$ bundle install
 
-Lorem markdownum telas, raptae Astraea referunt pressa, de. Direpta *vulgata
-loca*, latus, teneris tamen me proles. Nulloque violata ancora referre. Incursu
-hinc est humanum purior inbutam per, tenebat deam; aut poenam, et inposita
-concilio, deam: caecisque.
 
-## Getting started
+## Running site
 
-Lorem markdownum telas, raptae Astraea referunt pressa, de. Direpta *vulgata
-loca*, latus, teneris tamen me proles. Nulloque violata ancora referre. Incursu
-hinc est humanum purior inbutam per, tenebat deam; aut poenam, et inposita
-concilio, deam: caecisque.
+$ bundle exec jekyll serve
+
+
+# Edit through github
+
