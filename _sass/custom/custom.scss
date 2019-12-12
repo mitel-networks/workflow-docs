@@ -4,8 +4,13 @@
 // adjust the sidebar background
 $sidebar-color: $mitel-blue-color;
 
+/*
 .site-header {
-    //background-color: $body-background-color;
+    background-color: $body-background-color;
+}*/
+
+.menu-button {
+    color: white !important;
 }
 
 .navigation-list a {

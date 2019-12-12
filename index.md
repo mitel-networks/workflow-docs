@@ -1,34 +1,41 @@
 ---
 layout: default
-title: Intro
+title: Introduction
 nav_order: 1
 description: "Mitel Workflow is an integration engine for Mitel cloud connected products like MiCollab, MiCC and MOMA"
 permalink: /
 ---
 
-# Overview
-{: .fs-9 }
-
-Fulvis me alitibus regno. Nunc litora horrendae pede Romana, exigere vertit
-inferni et contraria **Aonidum fortibus**; hi efficiens iterum verba rarior.
-Precantia aequore mecum laniavit et ait quoniam guttae fulminis, dixisti
-curasque volucris paene recessit circa.
+Build integrations to MiCollab, MiCC and MOMA. Chat bots, IVRs, workflow helps supercharge your Mitel connected experiences.
 
 [Get started now](getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Run the app](https://workflow.mitel.io){: .btn .fs-5 .mb-4 .mb-md-0 }{:target="_blank"}
 
 ---
 
-## What is Workflow?
+# What is Workflow?
 
-Fulvis me alitibus regno. Nunc litora horrendae pede Romana, exigere vertit
-inferni et contraria **Aonidum fortibus**; hi efficiens iterum verba rarior.
-Precantia aequore mecum laniavit et ait quoniam guttae fulminis, dixisti
-curasque volucris paene recessit circa.
+... basic intro
 
-## When can I use Workflow?
+# When can it be used? 
 
-Fulvis me alitibus regno. Nunc litora horrendae pede Romana, exigere vertit
-inferni et contraria **Aonidum fortibus**; hi efficiens iterum verba rarior.
-Precantia aequore mecum laniavit et ait quoniam guttae fulminis, dixisti
-curasque volucris paene recessit circa.
+## Products supported
 
+### MiCollab
+
+... basic description
+
+### MiCC
+
+... describe
+
+### MOMA
+
+... describe
+
+### General
+
+... general orchestration
+
+# When should it not be used?
+
+... 
