@@ -193,7 +193,7 @@ x not in (a, b, c)
 * Element Access
 ```javascript
 //Method 1
-someArray[x]
+someArray.x
 //Method 2
 ArrayGetItem(array: Array<any>, index: number): any
 ArrayGetItem(someArray, 4)
