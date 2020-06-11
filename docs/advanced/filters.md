@@ -16,6 +16,8 @@ Once active a Filter will evaluate to either TRUE or FALSE.
 When **TRUE** the parent Flow and activity will continue execution as normal.
 When **FALSE** the parent Flow will halt execution and immediately terminate.
 
+Scoping of Output variables for the current activity includes the activity Id as filters are evaluated AFTER execution. So assuming you have an activity called myactivity and it returns and output called success a valid filter expression would be myactivity.success == true
+
 ## Usage Tips
 
 Filters are intended as a shorthand for situations where a Flow needs to be immediately terminated if a certain condition is met.
@@ -26,3 +28,4 @@ Common uses include:
 * Quickly terminating a Flow if a bad/invalid/undesirable state is detected
 
 If the binary logic of a Filter is too simple for a given situation, consider using the Condition Primitive which allows for more complex conditional branching.
+
