@@ -12,30 +12,21 @@ Build integrations to MiCollab, MiCC and MOMA. Chat bots, IVRs, workflow helps s
 
 ---
 
-# What is Workflow?
+# What is Workflow Studio?
 
-... basic intro
+Workflow studio is an integration tool for Mitel cloudlink connected apps. It allows for extending product functionality and adding in third party integrations to these products.
 
 # When can it be used? 
 
-## Products supported
+Workflow studio is a BETA product and only supported through Mitel professional services. If you would like to be part of the beta program reach out.
+
+## Products supported today
+
+Many Mitel products can be extended with workflow studio including the following
 
 ### MiCollab
+### MiCC B
+### MOMA/MOWA
+### Teamwork
 
-... basic description
-
-### MiCC
-
-... describe
-
-### MOMA
-
-... describe
-
-### General
-
-... general orchestration
-
-# When should it not be used?
-
-... 
+Workflow studio can also be used as a general orchestration tool
