@@ -5,7 +5,7 @@ parent: Walkthroughs
 nav_order: 1
 ---
 
-Sunshine Conversations is a software platform that enables bcommunication across many popular messaging apps. Using Workflow we can integrate with Sunshine Conversations and connect these messaging platforms with MiCC. 
+Sunshine Conversations is a software platform that enables communication across many popular messaging apps. Using Workflow we can integrate with Sunshine Conversations and connect these messaging platforms with MiCC. 
 
 ## Setup Sunshine Conversations integration
 You can find the Sunshine Conversations documentation here: <https://docs.smooch.io/guide/>. 
@@ -45,17 +45,7 @@ This URL then needs to be saved within the Sunshine Conversations app. This is d
 The setup is now complete, incoming messages recieved from Sunshine Conversations will be routed into the connected MiCC. 
 
 ## Use a specific MiCC queue
-If these interactions should be routed to a specific MiCC queue rather than the main inbound flow then you can configure the MiCC queue identity on the flow. Click on hte trigger and set the default value of the QueueId variable to the MiCC queue ID. 
+If these interactions should be routed to a specific MiCC queue rather than the main inbound flow then you can configure the MiCC queue identity on the flow. Click on the trigger and set the default value of the QueueId variable to the MiCC queue ID. 
 
 ![](../../../assets/walkthroughs/select-micc-queue.gif)
-
-
-
-
-
-
-
-
-
-
 
