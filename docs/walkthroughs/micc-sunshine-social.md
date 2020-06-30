@@ -8,9 +8,9 @@ nav_order: 1
 Sunshine Conversations is a software platform that enables bcommunication across many popular messaging apps. Using Workflow we can integrate with Sunshine Conversations and connect these messaging platforms with MiCC. 
 
 ## Setup Sunshine Conversations integration
-You can find the Sunshine Conversations documentation here: https://docs.smooch.io/guide/. 
+You can find the Sunshine Conversations documentation here: <https://docs.smooch.io/guide/>. 
 First step is to setup an app. An app represents a customer or business as a whole, or a department within one of those customers or businesses. An app contains a set of configured channels as well as any associated appUser profile and conversation data.
-Once the app is setup configure the integration in Workflow by following the instructions found here: https://mitel-networks.github.io/workflow-docs/docs/integrations/sunshine/
+Once the app is setup configure the integration in Workflow by following the instructions found here: <https://mitel-networks.github.io/workflow-docs/docs/integrations/sunshine/>
 
 ## Configure MiCC integration
 To route the incoming messaging interaction from Sunshine Conversations we need to clone the povided recipe called "Sunshine Conversations MiCC Recipe" which can be found under Library -> Recipes. Click clone the clone button and a flow will be created from this recipe.
