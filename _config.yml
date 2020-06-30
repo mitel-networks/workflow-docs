@@ -9,7 +9,6 @@ permalink: pretty
 search_enabled: true
 search_tokenizer_separator: /[\s/]+/
 heading_anchors: true
-color_scheme: nill
 
 plugins:
   - jekyll-remote-theme
@@ -25,3 +24,5 @@ compress_html:
   startings: []
   blanklines: false
   profile: false
+
+color_scheme: mitel
