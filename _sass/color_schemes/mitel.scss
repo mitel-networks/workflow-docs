@@ -12,9 +12,17 @@ $sidebar-color: $mitel-blue-color;
     color: white !important;
 }
 
-.navigation-list a {
+.nav-list a {
     color: white !important;
     text-decoration: none;
+}
+
+.nav-list-link.active {
+    background-image: none !important;
+}
+
+.nav-list-item {
+    background-image: none !important;
 }
 
 // $body-background-color: $grey-dk-300;
