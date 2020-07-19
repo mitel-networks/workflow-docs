@@ -2,7 +2,7 @@
 layout: default
 title: Twilio
 parent: Integrations
-nav_order: 1
+nav_order: 2
 ---
 
 ## Twilio
