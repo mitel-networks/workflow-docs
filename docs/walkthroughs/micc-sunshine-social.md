@@ -13,7 +13,7 @@ First step is to setup an app. An app represents a customer or business as a who
 Once the app is setup configure the integration in Workflow by following the instructions found here: <https://mitel-networks.github.io/workflow-docs/docs/integrations/sunshine/>
 
 ## Configure MiCC integration
-To route the incoming messaging interaction from Sunshine Conversations we need to clone the povided recipe called "Sunshine Conversations MiCC Recipe" which can be found under Library -> Recipes. Click clone the clone button and a flow will be created from this recipe.
+To route the incoming messaging interaction from Sunshine Conversations we need to clone the provided recipe called "Sunshine Conversations MiCC Recipe" which can be found under Library -> Recipes. Click clone the clone button and a flow will be created from this recipe.
 
 ![](../../../assets/walkthroughs/clone-recipe.gif)
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Building a chat bot
+title: Debugging
 parent: Advanced
 nav_order: 1
 ---
