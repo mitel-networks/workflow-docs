@@ -8,10 +8,10 @@ nav_order: 1
 Dialogflow is a natural language understanding platform from Google that makes it easy to design and integrate a conversational user interfaces such as chatbots. Using works flow we can add a chatbot to a CloudLink chat conversation.
 
 ## Setup Google integration
-Setup the integration to Google by following the instruction found here:
-<https://mitel-networks.github.io/workflow-docs/docs/integrations/google/>
-The scopes required for Dialogflow are https://www.googleapis.com/auth/cloud-platform and https://www.googleapis.com/auth/dialogflow
-More details can be found here: <https://developers.google.com/identity/protocols/oauth2/scopes#dialogflow>
+Setup the integration to Google by following the instruction found here:  
+<https://mitel-networks.github.io/workflow-docs/docs/integrations/google/>  
+The scopes required for Dialogflow are https://www.googleapis.com/auth/cloud-platform and https://www.googleapis.com/auth/dialogflow.  
+More details on google OAuth scopes can be found here: <https://developers.google.com/identity/protocols/oauth2/scopes#dialogflow>
 
 ## Create chatbot as platform user
 To be a participant in the conversation the chatbot needs to be created as a CloudLink platform user. Using the accounts portal (<https://accounts.mitel.io>) create a user for the chatbot. 
