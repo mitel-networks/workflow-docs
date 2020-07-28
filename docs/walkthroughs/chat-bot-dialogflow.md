@@ -24,9 +24,13 @@ There is an example of a flow that can be used to handle an interaction with the
 ## Configure the flow
 The cloned flow requires some extra configuration. 
 
-1 *Set the Google integration connection on the Dialogflow activity*
+1 Set the Google integration connection and GCP Project ID on the Dialogflow activity
 
-2 *Set the flow to run as the chatbot identity*
+![](../../../assets/walkthroughs/dialogflow-activity-configuration.gif)
+
+2 Set the flow to run as the chatbot identity, click Verify Identity and then Save
+
+![](../../../assets/walkthroughs/dialogfow-set-identity.gif)
 
 ## Start a conversation with the chatbot
 From an application that uses CloudLink chat such as MiCollab start a conversation with the chatbot.
