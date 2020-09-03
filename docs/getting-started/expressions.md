@@ -209,11 +209,6 @@ ArrayCount(array: Array<any>): number
 ```
 
 ## Objects
-```javascript
-someObject
-ObjectCreate( ( "count", "color", "isReady" ), ( 23, "red", True) )
-```
-
 Generic Objects are supported and are essentially bags of Key Value pairs
 
 * Creation
@@ -226,11 +221,10 @@ ObjectCreate( ( "count", "color", "isReady" ), ( 23, "red", True) )
 x.y
 y of x
 ```
-* Objects can be filtered using ObjectPick
+* Check existence of object property
 ```javascript
-ObjectPick(obj: object, properties: string | string[])
-ObjectPick(someObject, ( "count", "color" ) )
-ObjectPick(someObject, "color" )
+ObjectHasProperty(obj: object, propertie: string)
+ObjectHasProperty(someObject, "property1" ) )
 ```
 
 ## String Expressions
