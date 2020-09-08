@@ -248,6 +248,11 @@ StringBuilder(...strings): string
 ```javascript
 StringTrim(str: string)
 ```
+* To Lower Case
+```javascript
+StringToLowerCase(str: string)
+```
+
 * Regular Expressions
 ```javascript
 x ~= y
